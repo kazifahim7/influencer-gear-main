@@ -213,6 +213,7 @@ li {
     }
     .section-1{
         flex-direction: column-reverse;
+        
     }
     .Journey{
         padding: 0px;
@@ -249,6 +250,9 @@ li {
     .con-container, ol {
         padding-left: 37%;
         padding-top: 15px;
+    }
+    .lens{
+        width: 100%;
     }
     
 }
@@ -308,6 +312,9 @@ li {
     .con-container, ol {
         padding-left: 42%;
         padding-top: 15px;
+    }
+    .lens{
+        width: 100%;
     }
     
 }
