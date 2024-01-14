@@ -201,6 +201,9 @@ li {
 .hide{
     display: none;
 }
+.gear{
+    width: 100%;
+}
 
 
 /* mobile screen */
@@ -254,6 +257,9 @@ li {
     }
     .lens{
         width: 100%;
+    }
+    nav>ul{
+        flex-wrap: wrap;
     }
     
 }
